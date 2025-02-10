@@ -1,1 +1,1 @@
-# chatbot-gpt2-main
+# Chatbot-GPT2
